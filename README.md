@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://refer-nordvpn.com/PMWCqrlLtdF">
+    <img src="https://img.shields.io/badge/Get%20NordVPN%20%E2%86%92%20Support%20this%20project-4687FF?style=for-the-badge&logo=nordvpn&logoColor=white" alt="Get NordVPN — Support this project" height="42">
+  </a>
+</p>
+
+> **❤️ Support the author and VPN by using this link: https://refer-nordvpn.com/PMWCqrlLtdF**
+> **用这个推荐链接支持作者(并订阅 NordVPN):https://refer-nordvpn.com/PMWCqrlLtdF**
+
 # NordVPN Helper CLI (Windows)
 
 A PowerShell **helper CLI** that lets scripts (or an AI agent) drive the **official
