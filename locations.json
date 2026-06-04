@@ -1,0 +1,2543 @@
+﻿{
+    "generated":  "2026-06-04T17:35:03",
+    "source":  "api.nordvpn.com/v1/servers/countries",
+    "count":  149,
+    "countries":  [
+                      {
+                          "name":  "Afghanistan",
+                          "code":  "AF",
+                          "id":  1,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Kabul",
+                                             "id":  98270,
+                                             "dnsName":  "kabul",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Albania",
+                          "code":  "AL",
+                          "id":  2,
+                          "serverCount":  50,
+                          "cities":  [
+                                         {
+                                             "name":  "Tirana",
+                                             "id":  308615,
+                                             "dnsName":  "tirana",
+                                             "serverCount":  50
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Algeria",
+                          "code":  "DZ",
+                          "id":  3,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Algiers",
+                                             "id":  2438216,
+                                             "dnsName":  "algiers",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Andorra",
+                          "code":  "AD",
+                          "id":  5,
+                          "serverCount":  8,
+                          "cities":  [
+                                         {
+                                             "name":  "Andorra la Vella",
+                                             "id":  20,
+                                             "dnsName":  "andorra-la-vella",
+                                             "serverCount":  8
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Angola",
+                          "code":  "AO",
+                          "id":  6,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Luanda",
+                                             "id":  351407,
+                                             "dnsName":  "luanda",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Argentina",
+                          "code":  "AR",
+                          "id":  10,
+                          "serverCount":  17,
+                          "cities":  [
+                                         {
+                                             "name":  "Buenos Aires",
+                                             "id":  384866,
+                                             "dnsName":  "buenos-aires",
+                                             "serverCount":  17
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Armenia",
+                          "code":  "AM",
+                          "id":  11,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Yerevan",
+                                             "id":  322385,
+                                             "dnsName":  "yerevan",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Australia",
+                          "code":  "AU",
+                          "id":  13,
+                          "serverCount":  303,
+                          "cities":  [
+                                         {
+                                             "name":  "Adelaide",
+                                             "id":  452717,
+                                             "dnsName":  "adelaide",
+                                             "serverCount":  17
+                                         },
+                                         {
+                                             "name":  "Brisbane",
+                                             "id":  456494,
+                                             "dnsName":  "brisbane",
+                                             "serverCount":  47
+                                         },
+                                         {
+                                             "name":  "Melbourne",
+                                             "id":  470813,
+                                             "dnsName":  "melbourne",
+                                             "serverCount":  70
+                                         },
+                                         {
+                                             "name":  "Perth",
+                                             "id":  475799,
+                                             "dnsName":  "perth",
+                                             "serverCount":  43
+                                         },
+                                         {
+                                             "name":  "Sydney",
+                                             "id":  479570,
+                                             "dnsName":  "sydney",
+                                             "serverCount":  126
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Austria",
+                          "code":  "AT",
+                          "id":  14,
+                          "serverCount":  73,
+                          "cities":  [
+                                         {
+                                             "name":  "Vienna",
+                                             "id":  448799,
+                                             "dnsName":  "vienna",
+                                             "serverCount":  73
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Azerbaijan",
+                          "code":  "AZ",
+                          "id":  15,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Baku",
+                                             "id":  490037,
+                                             "dnsName":  "baku",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bahamas",
+                          "code":  "BS",
+                          "id":  16,
+                          "serverCount":  5,
+                          "cities":  [
+                                         {
+                                             "name":  "Nassau",
+                                             "id":  988382,
+                                             "dnsName":  "nassau",
+                                             "serverCount":  5
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bahrain",
+                          "code":  "BH",
+                          "id":  17,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Manama",
+                                             "id":  789398,
+                                             "dnsName":  "manama",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bangladesh",
+                          "code":  "BD",
+                          "id":  18,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Dhaka",
+                                             "id":  594935,
+                                             "dnsName":  "dhaka",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Barbados",
+                          "code":  "BB",
+                          "id":  19,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Bridgetown",
+                                             "id":  567650,
+                                             "dnsName":  "bridgetown",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Belgium",
+                          "code":  "BE",
+                          "id":  21,
+                          "serverCount":  112,
+                          "cities":  [
+                                         {
+                                             "name":  "Brussels",
+                                             "id":  654293,
+                                             "dnsName":  "brussels",
+                                             "serverCount":  112
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Belize",
+                          "code":  "BZ",
+                          "id":  22,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Belmopan",
+                                             "id":  1037459,
+                                             "dnsName":  "belmopan",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bermuda",
+                          "code":  "BM",
+                          "id":  24,
+                          "serverCount":  3,
+                          "cities":  [
+                                         {
+                                             "name":  "Hamilton",
+                                             "id":  809078,
+                                             "dnsName":  "hamilton",
+                                             "serverCount":  3
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bhutan",
+                          "code":  "BT",
+                          "id":  25,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Thimphu",
+                                             "id":  989699,
+                                             "dnsName":  "thimphu",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bolivia",
+                          "code":  "BO",
+                          "id":  26,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "La Paz",
+                                             "id":  838514,
+                                             "dnsName":  "la-paz",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bosnia and Herzegovina",
+                          "code":  "BA",
+                          "id":  27,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Sarajevo",
+                                             "id":  556823,
+                                             "dnsName":  "sarajevo",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Botswana",
+                          "code":  "BW",
+                          "id":  28,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Gaborone",
+                                             "id":  989990,
+                                             "dnsName":  "gaborone",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Brazil",
+                          "code":  "BR",
+                          "id":  30,
+                          "serverCount":  48,
+                          "cities":  [
+                                         {
+                                             "name":  "Sao Paulo",
+                                             "id":  890249,
+                                             "dnsName":  "sao-paulo",
+                                             "serverCount":  48
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Brunei Darussalam",
+                          "code":  "BN",
+                          "id":  32,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Bandar Seri Begawan",
+                                             "id":  809132,
+                                             "dnsName":  "bandar-seri-begawan",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Bulgaria",
+                          "code":  "BG",
+                          "id":  33,
+                          "serverCount":  25,
+                          "cities":  [
+                                         {
+                                             "name":  "Sofia",
+                                             "id":  777368,
+                                             "dnsName":  "sofia",
+                                             "serverCount":  25
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Burkina Faso",
+                          "code":  "BF",
+                          "id":  34,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Ouagadougou",
+                                             "id":  716276,
+                                             "dnsName":  "ouagadougou",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cambodia",
+                          "code":  "KH",
+                          "id":  36,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Phnom Penh",
+                                             "id":  4658987,
+                                             "dnsName":  "phnom-penh",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cameroon",
+                          "code":  "CM",
+                          "id":  37,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Yaounde",
+                                             "id":  1257194,
+                                             "dnsName":  "yaoundã©",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Canada",
+                          "code":  "CA",
+                          "id":  38,
+                          "serverCount":  546,
+                          "cities":  [
+                                         {
+                                             "name":  "Calgary",
+                                             "id":  1041023,
+                                             "dnsName":  "calgary",
+                                             "serverCount":  24
+                                         },
+                                         {
+                                             "name":  "Montreal",
+                                             "id":  1048463,
+                                             "dnsName":  "montreal",
+                                             "serverCount":  176
+                                         },
+                                         {
+                                             "name":  "Toronto",
+                                             "id":  1054250,
+                                             "dnsName":  "toronto",
+                                             "serverCount":  239
+                                         },
+                                         {
+                                             "name":  "Vancouver",
+                                             "id":  1054610,
+                                             "dnsName":  "vancouver",
+                                             "serverCount":  107
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cape Verde",
+                          "code":  "CV",
+                          "id":  39,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Praia",
+                                             "id":  2093513,
+                                             "dnsName":  "praia",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cayman Islands",
+                          "code":  "KY",
+                          "id":  40,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "George Town",
+                                             "id":  4922303,
+                                             "dnsName":  "george-town",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Chad",
+                          "code":  "TD",
+                          "id":  42,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "NDjamena",
+                                             "id":  8075072,
+                                             "dnsName":  "ndjamena",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Chile",
+                          "code":  "CL",
+                          "id":  43,
+                          "serverCount":  7,
+                          "cities":  [
+                                         {
+                                             "name":  "Santiago",
+                                             "id":  1227092,
+                                             "dnsName":  "santiago",
+                                             "serverCount":  7
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Colombia",
+                          "code":  "CO",
+                          "id":  47,
+                          "serverCount":  18,
+                          "cities":  [
+                                         {
+                                             "name":  "Bogota",
+                                             "id":  1980695,
+                                             "dnsName":  "bogota",
+                                             "serverCount":  18
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Comoros",
+                          "code":  "KM",
+                          "id":  48,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Moroni",
+                                             "id":  4698371,
+                                             "dnsName":  "moroni",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Costa Rica",
+                          "code":  "CR",
+                          "id":  52,
+                          "serverCount":  6,
+                          "cities":  [
+                                         {
+                                             "name":  "San Jose",
+                                             "id":  2062994,
+                                             "dnsName":  "san-jose",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cote Divoire",
+                          "code":  "CI",
+                          "id":  53,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Yamoussoukro",
+                                             "id":  1212512,
+                                             "dnsName":  "yamoussoukro",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Croatia",
+                          "code":  "HR",
+                          "id":  54,
+                          "serverCount":  16,
+                          "cities":  [
+                                         {
+                                             "name":  "Zagreb",
+                                             "id":  3308120,
+                                             "dnsName":  "zagreb",
+                                             "serverCount":  16
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Cyprus",
+                          "code":  "CY",
+                          "id":  56,
+                          "serverCount":  13,
+                          "cities":  [
+                                         {
+                                             "name":  "Nicosia",
+                                             "id":  2099627,
+                                             "dnsName":  "nicosia",
+                                             "serverCount":  13
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Czech Republic",
+                          "code":  "CZ",
+                          "id":  57,
+                          "serverCount":  59,
+                          "cities":  [
+                                         {
+                                             "name":  "Prague",
+                                             "id":  2144945,
+                                             "dnsName":  "prague",
+                                             "serverCount":  59
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Denmark",
+                          "code":  "DK",
+                          "id":  58,
+                          "serverCount":  74,
+                          "cities":  [
+                                         {
+                                             "name":  "Copenhagen",
+                                             "id":  2382515,
+                                             "dnsName":  "copenhagen",
+                                             "serverCount":  74
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Dominican Republic",
+                          "code":  "DO",
+                          "id":  61,
+                          "serverCount":  5,
+                          "cities":  [
+                                         {
+                                             "name":  "Santo Domingo",
+                                             "id":  2434841,
+                                             "dnsName":  "santo-domingo",
+                                             "serverCount":  5
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Ecuador",
+                          "code":  "EC",
+                          "id":  63,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Quito",
+                                             "id":  2485688,
+                                             "dnsName":  "quito",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Egypt",
+                          "code":  "EG",
+                          "id":  64,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Cairo",
+                                             "id":  2528003,
+                                             "dnsName":  "cairo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "El Salvador",
+                          "code":  "SV",
+                          "id":  65,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "San Salvador",
+                                             "id":  7990847,
+                                             "dnsName":  "san-salvador",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Estonia",
+                          "code":  "EE",
+                          "id":  68,
+                          "serverCount":  10,
+                          "cities":  [
+                                         {
+                                             "name":  "Tallinn",
+                                             "id":  2514182,
+                                             "dnsName":  "tallinn",
+                                             "serverCount":  10
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Ethiopia",
+                          "code":  "ET",
+                          "id":  69,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Addis Ababa",
+                                             "id":  2660744,
+                                             "dnsName":  "addis-ababa",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Fiji",
+                          "code":  "FJ",
+                          "id":  72,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Suva",
+                                             "id":  2743211,
+                                             "dnsName":  "suva",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Finland",
+                          "code":  "FI",
+                          "id":  73,
+                          "serverCount":  23,
+                          "cities":  [
+                                         {
+                                             "name":  "Helsinki",
+                                             "id":  2704343,
+                                             "dnsName":  "helsinki",
+                                             "serverCount":  23
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "France",
+                          "code":  "FR",
+                          "id":  74,
+                          "serverCount":  426,
+                          "cities":  [
+                                         {
+                                             "name":  "Bordeaux",
+                                             "id":  2767493,
+                                             "dnsName":  "bordeaux",
+                                             "serverCount":  28
+                                         },
+                                         {
+                                             "name":  "Marseille",
+                                             "id":  2867102,
+                                             "dnsName":  "marseille",
+                                             "serverCount":  111
+                                         },
+                                         {
+                                             "name":  "Paris",
+                                             "id":  2886284,
+                                             "dnsName":  "paris",
+                                             "serverCount":  263
+                                         },
+                                         {
+                                             "name":  "Strasbourg",
+                                             "id":  2929151,
+                                             "dnsName":  "strasbourg",
+                                             "serverCount":  24
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Gambia",
+                          "code":  "GM",
+                          "id":  79,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Banjul",
+                                             "id":  3086063,
+                                             "dnsName":  "banjul",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Georgia",
+                          "code":  "GE",
+                          "id":  80,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Tbilisi",
+                                             "id":  3032063,
+                                             "dnsName":  "tbilisi",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Germany",
+                          "code":  "DE",
+                          "id":  81,
+                          "serverCount":  446,
+                          "cities":  [
+                                         {
+                                             "name":  "Berlin",
+                                             "id":  2181458,
+                                             "dnsName":  "berlin",
+                                             "serverCount":  79
+                                         },
+                                         {
+                                             "name":  "Frankfurt",
+                                             "id":  2215709,
+                                             "dnsName":  "frankfurt",
+                                             "serverCount":  339
+                                         },
+                                         {
+                                             "name":  "Hamburg",
+                                             "id":  2234906,
+                                             "dnsName":  "hamburg",
+                                             "serverCount":  28
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Ghana",
+                          "code":  "GH",
+                          "id":  82,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Accra",
+                                             "id":  3040355,
+                                             "dnsName":  "accra",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Greece",
+                          "code":  "GR",
+                          "id":  84,
+                          "serverCount":  30,
+                          "cities":  [
+                                         {
+                                             "name":  "Athens",
+                                             "id":  3131903,
+                                             "dnsName":  "athens",
+                                             "serverCount":  30
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Greenland",
+                          "code":  "GL",
+                          "id":  85,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Nuuk",
+                                             "id":  3085001,
+                                             "dnsName":  "nuuk",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Guam",
+                          "code":  "GU",
+                          "id":  88,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Hagatna",
+                                             "id":  8808314,
+                                             "dnsName":  "hagatna",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Guatemala",
+                          "code":  "GT",
+                          "id":  89,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Guatemala City",
+                                             "id":  3202463,
+                                             "dnsName":  "guatemala-city",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Honduras",
+                          "code":  "HN",
+                          "id":  96,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Tegucigalpa",
+                                             "id":  3270551,
+                                             "dnsName":  "tegucigalpa",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Hong Kong",
+                          "code":  "HK",
+                          "id":  97,
+                          "serverCount":  89,
+                          "cities":  [
+                                         {
+                                             "name":  "Hong Kong",
+                                             "id":  3232931,
+                                             "dnsName":  "hong-kong",
+                                             "serverCount":  89
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Hungary",
+                          "code":  "HU",
+                          "id":  98,
+                          "serverCount":  30,
+                          "cities":  [
+                                         {
+                                             "name":  "Budapest",
+                                             "id":  3348344,
+                                             "dnsName":  "budapest",
+                                             "serverCount":  30
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Iceland",
+                          "code":  "IS",
+                          "id":  99,
+                          "serverCount":  14,
+                          "cities":  [
+                                         {
+                                             "name":  "Reykjavik",
+                                             "id":  4509791,
+                                             "dnsName":  "reykjavik",
+                                             "serverCount":  14
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "India",
+                          "code":  "IN",
+                          "id":  100,
+                          "serverCount":  35,
+                          "cities":  [
+                                         {
+                                             "name":  "Mumbai",
+                                             "id":  4041548,
+                                             "dnsName":  "mumbai",
+                                             "serverCount":  35
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Indonesia",
+                          "code":  "ID",
+                          "id":  101,
+                          "serverCount":  16,
+                          "cities":  [
+                                         {
+                                             "name":  "Jakarta",
+                                             "id":  3560288,
+                                             "dnsName":  "jakarta",
+                                             "serverCount":  16
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Iraq",
+                          "code":  "IQ",
+                          "id":  103,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Baghdad",
+                                             "id":  4093955,
+                                             "dnsName":  "baghdad",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Ireland",
+                          "code":  "IE",
+                          "id":  104,
+                          "serverCount":  92,
+                          "cities":  [
+                                         {
+                                             "name":  "Dublin",
+                                             "id":  3939200,
+                                             "dnsName":  "dublin",
+                                             "serverCount":  92
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Isle of Man",
+                          "code":  "IM",
+                          "id":  243,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Douglas",
+                                             "id":  3965405,
+                                             "dnsName":  "douglas",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Israel",
+                          "code":  "IL",
+                          "id":  105,
+                          "serverCount":  24,
+                          "cities":  [
+                                         {
+                                             "name":  "Tel Aviv",
+                                             "id":  3964220,
+                                             "dnsName":  "tel-aviv",
+                                             "serverCount":  24
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Italy",
+                          "code":  "IT",
+                          "id":  106,
+                          "serverCount":  210,
+                          "cities":  [
+                                         {
+                                             "name":  "Milan",
+                                             "id":  4542737,
+                                             "dnsName":  "milan",
+                                             "serverCount":  146
+                                         },
+                                         {
+                                             "name":  "Palermo",
+                                             "id":  4548074,
+                                             "dnsName":  "palermo",
+                                             "serverCount":  12
+                                         },
+                                         {
+                                             "name":  "Rome",
+                                             "id":  4555808,
+                                             "dnsName":  "rome",
+                                             "serverCount":  52
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Jamaica",
+                          "code":  "JM",
+                          "id":  107,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Kingston",
+                                             "id":  4576328,
+                                             "dnsName":  "kingston",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Japan",
+                          "code":  "JP",
+                          "id":  108,
+                          "serverCount":  293,
+                          "cities":  [
+                                         {
+                                             "name":  "Osaka",
+                                             "id":  4621847,
+                                             "dnsName":  "osaka",
+                                             "serverCount":  36
+                                         },
+                                         {
+                                             "name":  "Tokyo",
+                                             "id":  4633349,
+                                             "dnsName":  "tokyo",
+                                             "serverCount":  257
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Jersey",
+                          "code":  "JE",
+                          "id":  244,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Saint Helier",
+                                             "id":  4572281,
+                                             "dnsName":  "saint-helier",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Jordan",
+                          "code":  "JO",
+                          "id":  109,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Amman",
+                                             "id":  4581203,
+                                             "dnsName":  "amman",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Kazakhstan",
+                          "code":  "KZ",
+                          "id":  110,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Astana",
+                                             "id":  4925732,
+                                             "dnsName":  "astana",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Kenya",
+                          "code":  "KE",
+                          "id":  111,
+                          "serverCount":  1,
+                          "cities":  [
+                                         {
+                                             "name":  "Nairobi",
+                                             "id":  4646603,
+                                             "dnsName":  "nairobi",
+                                             "serverCount":  1
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Kuwait",
+                          "code":  "KW",
+                          "id":  116,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Kuwait City",
+                                             "id":  9521894,
+                                             "dnsName":  "kuwait-city",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Kyrgyzstan",
+                          "code":  "KG",
+                          "id":  117,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Bishkek",
+                                             "id":  4649336,
+                                             "dnsName":  "bishkek",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Lao People\u0027s Democratic Republic",
+                          "code":  "LA",
+                          "id":  118,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Vientiane",
+                                             "id":  5015876,
+                                             "dnsName":  "vientiane",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Latvia",
+                          "code":  "LV",
+                          "id":  119,
+                          "serverCount":  10,
+                          "cities":  [
+                                         {
+                                             "name":  "Riga",
+                                             "id":  5192828,
+                                             "dnsName":  "riga",
+                                             "serverCount":  10
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Lebanon",
+                          "code":  "LB",
+                          "id":  120,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Beirut",
+                                             "id":  5022080,
+                                             "dnsName":  "beirut",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Libyan Arab Jamahiriya",
+                          "code":  "LY",
+                          "id":  123,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Tripoli",
+                                             "id":  5206697,
+                                             "dnsName":  "tripoli",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Liechtenstein",
+                          "code":  "LI",
+                          "id":  124,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Vaduz",
+                                             "id":  5037212,
+                                             "dnsName":  "vaduz",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Lithuania",
+                          "code":  "LT",
+                          "id":  125,
+                          "serverCount":  16,
+                          "cities":  [
+                                         {
+                                             "name":  "Vilnius",
+                                             "id":  5166932,
+                                             "dnsName":  "vilnius",
+                                             "serverCount":  16
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Luxembourg",
+                          "code":  "LU",
+                          "id":  126,
+                          "serverCount":  16,
+                          "cities":  [
+                                         {
+                                             "name":  "Luxembourg",
+                                             "id":  9521876,
+                                             "dnsName":  "luxembourg",
+                                             "serverCount":  16
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Madagascar",
+                          "code":  "MG",
+                          "id":  129,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Antananarivo",
+                                             "id":  5346515,
+                                             "dnsName":  "antananarivo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Malawi",
+                          "code":  "MW",
+                          "id":  130,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Lilongwe",
+                                             "id":  5563772,
+                                             "dnsName":  "lilongwe",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Malaysia",
+                          "code":  "MY",
+                          "id":  131,
+                          "serverCount":  10,
+                          "cities":  [
+                                         {
+                                             "name":  "Kuala Lumpur",
+                                             "id":  5820143,
+                                             "dnsName":  "kuala-lumpur",
+                                             "serverCount":  10
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Maldives",
+                          "code":  "MV",
+                          "id":  132,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Male",
+                                             "id":  5556524,
+                                             "dnsName":  "male",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Malta",
+                          "code":  "MT",
+                          "id":  134,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Valletta",
+                                             "id":  5554481,
+                                             "dnsName":  "valletta",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Mauritania",
+                          "code":  "MR",
+                          "id":  137,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Nouakchott",
+                                             "id":  5551598,
+                                             "dnsName":  "nouakchott",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Mauritius",
+                          "code":  "MU",
+                          "id":  138,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Port Louis",
+                                             "id":  5556011,
+                                             "dnsName":  "port-louis",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Mexico",
+                          "code":  "MX",
+                          "id":  140,
+                          "serverCount":  68,
+                          "cities":  [
+                                         {
+                                             "name":  "Mexico",
+                                             "id":  5677037,
+                                             "dnsName":  "mexico",
+                                             "serverCount":  68
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Moldova",
+                          "code":  "MD",
+                          "id":  142,
+                          "serverCount":  3,
+                          "cities":  [
+                                         {
+                                             "name":  "Chisinau",
+                                             "id":  5295179,
+                                             "dnsName":  "chisinau",
+                                             "serverCount":  3
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Monaco",
+                          "code":  "MC",
+                          "id":  143,
+                          "serverCount":  6,
+                          "cities":  [
+                                         {
+                                             "name":  "Monte Carlo",
+                                             "id":  5292332,
+                                             "dnsName":  "monte-carlo",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Mongolia",
+                          "code":  "MN",
+                          "id":  144,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Ulaanbaatar",
+                                             "id":  5543669,
+                                             "dnsName":  "ulaanbaatar",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Montenegro",
+                          "code":  "ME",
+                          "id":  146,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Podgorica",
+                                             "id":  5318561,
+                                             "dnsName":  "podgorica",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Morocco",
+                          "code":  "MA",
+                          "id":  147,
+                          "serverCount":  4,
+                          "cities":  [
+                                         {
+                                             "name":  "Rabat",
+                                             "id":  5271254,
+                                             "dnsName":  "rabat",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Mozambique",
+                          "code":  "MZ",
+                          "id":  148,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Maputo",
+                                             "id":  5870336,
+                                             "dnsName":  "maputo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Myanmar",
+                          "code":  "MM",
+                          "id":  149,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Naypyidaw",
+                                             "id":  9521893,
+                                             "dnsName":  "naypyidaw",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Nepal",
+                          "code":  "NP",
+                          "id":  152,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Kathmandu",
+                                             "id":  6142175,
+                                             "dnsName":  "kathmandu",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Netherlands",
+                          "code":  "NL",
+                          "id":  153,
+                          "serverCount":  298,
+                          "cities":  [
+                                         {
+                                             "name":  "Amsterdam",
+                                             "id":  6076868,
+                                             "dnsName":  "amsterdam",
+                                             "serverCount":  298
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "New Zealand",
+                          "code":  "NZ",
+                          "id":  156,
+                          "serverCount":  41,
+                          "cities":  [
+                                         {
+                                             "name":  "Auckland",
+                                             "id":  6144239,
+                                             "dnsName":  "auckland",
+                                             "serverCount":  41
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Nigeria",
+                          "code":  "NG",
+                          "id":  159,
+                          "serverCount":  6,
+                          "cities":  [
+                                         {
+                                             "name":  "Lagos",
+                                             "id":  6010328,
+                                             "dnsName":  "lagos",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "North Macedonia",
+                          "code":  "MK",
+                          "id":  128,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Skopje",
+                                             "id":  5386019,
+                                             "dnsName":  "skopje",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Norway",
+                          "code":  "NO",
+                          "id":  163,
+                          "serverCount":  94,
+                          "cities":  [
+                                         {
+                                             "name":  "Oslo",
+                                             "id":  6127364,
+                                             "dnsName":  "oslo",
+                                             "serverCount":  94
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Pakistan",
+                          "code":  "PK",
+                          "id":  165,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Karachi",
+                                             "id":  6600485,
+                                             "dnsName":  "karachi",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Panama",
+                          "code":  "PA",
+                          "id":  168,
+                          "serverCount":  3,
+                          "cities":  [
+                                         {
+                                             "name":  "Panama City",
+                                             "id":  6176273,
+                                             "dnsName":  "panama-city",
+                                             "serverCount":  3
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Papua New Guinea",
+                          "code":  "PG",
+                          "id":  169,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Port Moresby",
+                                             "id":  6292406,
+                                             "dnsName":  "port-moresby",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Paraguay",
+                          "code":  "PY",
+                          "id":  170,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Asuncion",
+                                             "id":  9521890,
+                                             "dnsName":  "asuncion",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Peru",
+                          "code":  "PE",
+                          "id":  171,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Lima",
+                                             "id":  6222584,
+                                             "dnsName":  "lima",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Philippines",
+                          "code":  "PH",
+                          "id":  172,
+                          "serverCount":  10,
+                          "cities":  [
+                                         {
+                                             "name":  "Manila",
+                                             "id":  6391379,
+                                             "dnsName":  "manila",
+                                             "serverCount":  10
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Poland",
+                          "code":  "PL",
+                          "id":  174,
+                          "serverCount":  103,
+                          "cities":  [
+                                         {
+                                             "name":  "Warsaw",
+                                             "id":  6863429,
+                                             "dnsName":  "warsaw",
+                                             "serverCount":  103
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Portugal",
+                          "code":  "PT",
+                          "id":  175,
+                          "serverCount":  42,
+                          "cities":  [
+                                         {
+                                             "name":  "Lisbon",
+                                             "id":  6906665,
+                                             "dnsName":  "lisbon",
+                                             "serverCount":  42
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Puerto Rico",
+                          "code":  "PR",
+                          "id":  176,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "San Juan",
+                                             "id":  9521884,
+                                             "dnsName":  "san-juan",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Qatar",
+                          "code":  "QA",
+                          "id":  177,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Doha",
+                                             "id":  6940529,
+                                             "dnsName":  "doha",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Romania",
+                          "code":  "RO",
+                          "id":  179,
+                          "serverCount":  29,
+                          "cities":  [
+                                         {
+                                             "name":  "Bucharest",
+                                             "id":  6953096,
+                                             "dnsName":  "bucharest",
+                                             "serverCount":  29
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Rwanda",
+                          "code":  "RW",
+                          "id":  181,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Kigali",
+                                             "id":  7723910,
+                                             "dnsName":  "kigali",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Saint Lucia",
+                          "code":  "LC",
+                          "id":  184,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Castries",
+                                             "id":  5036603,
+                                             "dnsName":  "castries",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Senegal",
+                          "code":  "SN",
+                          "id":  191,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Dakar",
+                                             "id":  7924958,
+                                             "dnsName":  "dakar",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Serbia",
+                          "code":  "RS",
+                          "id":  192,
+                          "serverCount":  15,
+                          "cities":  [
+                                         {
+                                             "name":  "Belgrade",
+                                             "id":  7030907,
+                                             "dnsName":  "belgrad",
+                                             "serverCount":  15
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Sierra Leone",
+                          "code":  "SL",
+                          "id":  194,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Freetown",
+                                             "id":  7906196,
+                                             "dnsName":  "freetown",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Singapore",
+                          "code":  "SG",
+                          "id":  195,
+                          "serverCount":  89,
+                          "cities":  [
+                                         {
+                                             "name":  "Singapore",
+                                             "id":  7867982,
+                                             "dnsName":  "singapore",
+                                             "serverCount":  89
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Slovakia",
+                          "code":  "SK",
+                          "id":  196,
+                          "serverCount":  15,
+                          "cities":  [
+                                         {
+                                             "name":  "Bratislava",
+                                             "id":  7884305,
+                                             "dnsName":  "bratislava",
+                                             "serverCount":  15
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Slovenia",
+                          "code":  "SI",
+                          "id":  197,
+                          "serverCount":  6,
+                          "cities":  [
+                                         {
+                                             "name":  "Ljubljana",
+                                             "id":  7874306,
+                                             "dnsName":  "ljubljana",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Somalia",
+                          "code":  "SO",
+                          "id":  199,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Mogadishu",
+                                             "id":  7971170,
+                                             "dnsName":  "mogadishu",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "South Africa",
+                          "code":  "ZA",
+                          "id":  200,
+                          "serverCount":  26,
+                          "cities":  [
+                                         {
+                                             "name":  "Johannesburg",
+                                             "id":  9383693,
+                                             "dnsName":  "johannesburg",
+                                             "serverCount":  26
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "South Korea",
+                          "code":  "KR",
+                          "id":  114,
+                          "serverCount":  76,
+                          "cities":  [
+                                         {
+                                             "name":  "Seoul",
+                                             "id":  4879586,
+                                             "dnsName":  "seoul",
+                                             "serverCount":  76
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Spain",
+                          "code":  "ES",
+                          "id":  202,
+                          "serverCount":  128,
+                          "cities":  [
+                                         {
+                                             "name":  "Barcelona",
+                                             "id":  2572757,
+                                             "dnsName":  "barcelona",
+                                             "serverCount":  44
+                                         },
+                                         {
+                                             "name":  "Madrid",
+                                             "id":  2619989,
+                                             "dnsName":  "madrid",
+                                             "serverCount":  84
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Sri Lanka",
+                          "code":  "LK",
+                          "id":  203,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Colombo",
+                                             "id":  5043197,
+                                             "dnsName":  "colombo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Suriname",
+                          "code":  "SR",
+                          "id":  205,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Paramaribo",
+                                             "id":  7976870,
+                                             "dnsName":  "paramaribo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Sweden",
+                          "code":  "SE",
+                          "id":  208,
+                          "serverCount":  186,
+                          "cities":  [
+                                         {
+                                             "name":  "Stockholm",
+                                             "id":  7852919,
+                                             "dnsName":  "stockholm",
+                                             "serverCount":  186
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Switzerland",
+                          "code":  "CH",
+                          "id":  209,
+                          "serverCount":  176,
+                          "cities":  [
+                                         {
+                                             "name":  "Zurich",
+                                             "id":  1171814,
+                                             "dnsName":  "zurich",
+                                             "serverCount":  176
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Taiwan",
+                          "code":  "TW",
+                          "id":  211,
+                          "serverCount":  40,
+                          "cities":  [
+                                         {
+                                             "name":  "Taipei",
+                                             "id":  8544365,
+                                             "dnsName":  "taipei",
+                                             "serverCount":  40
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Tajikistan",
+                          "code":  "TJ",
+                          "id":  212,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Dushanbe",
+                                             "id":  8269814,
+                                             "dnsName":  "dushanbe",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Tanzania",
+                          "code":  "TZ",
+                          "id":  213,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Dodoma",
+                                             "id":  8554790,
+                                             "dnsName":  "dodoma",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Thailand",
+                          "code":  "TH",
+                          "id":  214,
+                          "serverCount":  16,
+                          "cities":  [
+                                         {
+                                             "name":  "Bangkok",
+                                             "id":  8121638,
+                                             "dnsName":  "bangkok",
+                                             "serverCount":  16
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Togo",
+                          "code":  "TG",
+                          "id":  215,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Lome",
+                                             "id":  8091425,
+                                             "dnsName":  "lome",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Trinidad and Tobago",
+                          "code":  "TT",
+                          "id":  218,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Port of Spain",
+                                             "id":  9521887,
+                                             "dnsName":  "port-of-spain",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Tunisia",
+                          "code":  "TN",
+                          "id":  219,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Tunis",
+                                             "id":  8295401,
+                                             "dnsName":  "tunis",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Turkey",
+                          "code":  "TR",
+                          "id":  220,
+                          "serverCount":  26,
+                          "cities":  [
+                                         {
+                                             "name":  "Istanbul",
+                                             "id":  8401790,
+                                             "dnsName":  "istanbul",
+                                             "serverCount":  26
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Ukraine",
+                          "code":  "UA",
+                          "id":  225,
+                          "serverCount":  14,
+                          "cities":  [
+                                         {
+                                             "name":  "Kyiv",
+                                             "id":  8626766,
+                                             "dnsName":  "kyiv",
+                                             "serverCount":  14
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "United Arab Emirates",
+                          "code":  "AE",
+                          "id":  226,
+                          "serverCount":  21,
+                          "cities":  [
+                                         {
+                                             "name":  "Dubai",
+                                             "id":  728,
+                                             "dnsName":  "dubai",
+                                             "serverCount":  17
+                                         },
+                                         {
+                                             "name":  "Fujairah",
+                                             "id":  800,
+                                             "dnsName":  "fujairah",
+                                             "serverCount":  4
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "United Kingdom",
+                          "code":  "GB",
+                          "id":  227,
+                          "serverCount":  1147,
+                          "cities":  [
+                                         {
+                                             "name":  "Edinburgh",
+                                             "id":  2975852,
+                                             "dnsName":  "edinburgh",
+                                             "serverCount":  49
+                                         },
+                                         {
+                                             "name":  "Glasgow",
+                                             "id":  2978888,
+                                             "dnsName":  "glasgow",
+                                             "serverCount":  47
+                                         },
+                                         {
+                                             "name":  "London",
+                                             "id":  2989907,
+                                             "dnsName":  "london",
+                                             "serverCount":  878
+                                         },
+                                         {
+                                             "name":  "Manchester",
+                                             "id":  2991110,
+                                             "dnsName":  "manchester",
+                                             "serverCount":  173
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "United States",
+                          "code":  "US",
+                          "id":  228,
+                          "serverCount":  3455,
+                          "cities":  [
+                                         {
+                                             "name":  "Albuquerque",
+                                             "id":  8957066,
+                                             "dnsName":  "albuquerque",
+                                             "serverCount":  15
+                                         },
+                                         {
+                                             "name":  "Anchorage",
+                                             "id":  8736005,
+                                             "dnsName":  "anchorage",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Ashburn",
+                                             "id":  9103211,
+                                             "dnsName":  "ashburn",
+                                             "serverCount":  158
+                                         },
+                                         {
+                                             "name":  "Atlanta",
+                                             "id":  8792429,
+                                             "dnsName":  "atlanta",
+                                             "serverCount":  207
+                                         },
+                                         {
+                                             "name":  "Baltimore",
+                                             "id":  8873894,
+                                             "dnsName":  "baltimore",
+                                             "serverCount":  15
+                                         },
+                                         {
+                                             "name":  "Billings",
+                                             "id":  8937212,
+                                             "dnsName":  "billings",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Boise",
+                                             "id":  8810342,
+                                             "dnsName":  "boise",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Boston",
+                                             "id":  8895305,
+                                             "dnsName":  "boston",
+                                             "serverCount":  80
+                                         },
+                                         {
+                                             "name":  "Buffalo",
+                                             "id":  8963153,
+                                             "dnsName":  "buffalo",
+                                             "serverCount":  80
+                                         },
+                                         {
+                                             "name":  "Burlington",
+                                             "id":  9099731,
+                                             "dnsName":  "burlington",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Charleston",
+                                             "id":  9050567,
+                                             "dnsName":  "charleston",
+                                             "serverCount":  10
+                                         },
+                                         {
+                                             "name":  "Charlotte",
+                                             "id":  8980922,
+                                             "dnsName":  "charlotte",
+                                             "serverCount":  63
+                                         },
+                                         {
+                                             "name":  "Cheyenne",
+                                             "id":  9147794,
+                                             "dnsName":  "cheyenne",
+                                             "serverCount":  4
+                                         },
+                                         {
+                                             "name":  "Chicago",
+                                             "id":  8815352,
+                                             "dnsName":  "chicago",
+                                             "serverCount":  313
+                                         },
+                                         {
+                                             "name":  "Columbus",
+                                             "id":  8997560,
+                                             "dnsName":  "columbus",
+                                             "serverCount":  14
+                                         },
+                                         {
+                                             "name":  "Dallas",
+                                             "id":  9080300,
+                                             "dnsName":  "dallas",
+                                             "serverCount":  250
+                                         },
+                                         {
+                                             "name":  "Denver",
+                                             "id":  8770934,
+                                             "dnsName":  "denver",
+                                             "serverCount":  129
+                                         },
+                                         {
+                                             "name":  "Des Moines",
+                                             "id":  8835473,
+                                             "dnsName":  "des-moines",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Detroit",
+                                             "id":  8903312,
+                                             "dnsName":  "detroit",
+                                             "serverCount":  10
+                                         },
+                                         {
+                                             "name":  "Fargo",
+                                             "id":  8993042,
+                                             "dnsName":  "fargo",
+                                             "serverCount":  5
+                                         },
+                                         {
+                                             "name":  "Honolulu",
+                                             "id":  8808860,
+                                             "dnsName":  "honolulu",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "Houston",
+                                             "id":  9083687,
+                                             "dnsName":  "houston",
+                                             "serverCount":  46
+                                         },
+                                         {
+                                             "name":  "Huntington",
+                                             "id":  9134528,
+                                             "dnsName":  "huntington",
+                                             "serverCount":  6
+                                         },
+                                         {
+                                             "name":  "Indianapolis",
+                                             "id":  8828528,
+                                             "dnsName":  "indianapolis",
+                                             "serverCount":  14
+                                         },
+                                         {
+                                             "name":  "Jackson",
+                                             "id":  8920961,
+                                             "dnsName":  "jackson",
+                                             "serverCount":  5
+                                         },
+                                         {
+                                             "name":  "Kansas City",
+                                             "id":  8930717,
+                                             "dnsName":  "kansas-city",
+                                             "serverCount":  35
+                                         },
+                                         {
+                                             "name":  "Las Vegas",
+                                             "id":  8945963,
+                                             "dnsName":  "las-vegas",
+                                             "serverCount":  10
+                                         },
+                                         {
+                                             "name":  "Lewiston",
+                                             "id":  8869646,
+                                             "dnsName":  "lewiston",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "Little Rock",
+                                             "id":  8749055,
+                                             "dnsName":  "little-rock",
+                                             "serverCount":  5
+                                         },
+                                         {
+                                             "name":  "Los Angeles",
+                                             "id":  8761958,
+                                             "dnsName":  "los-angeles",
+                                             "serverCount":  314
+                                         },
+                                         {
+                                             "name":  "Louisville",
+                                             "id":  8852234,
+                                             "dnsName":  "louisville",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "McAllen",
+                                             "id":  9086162,
+                                             "dnsName":  "mcallen",
+                                             "serverCount":  22
+                                         },
+                                         {
+                                             "name":  "Miami",
+                                             "id":  8787782,
+                                             "dnsName":  "miami",
+                                             "serverCount":  249
+                                         },
+                                         {
+                                             "name":  "Milwaukee",
+                                             "id":  9144572,
+                                             "dnsName":  "milwaukee",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "Minneapolis",
+                                             "id":  8915105,
+                                             "dnsName":  "minneapolis",
+                                             "serverCount":  12
+                                         },
+                                         {
+                                             "name":  "Montgomery",
+                                             "id":  8730710,
+                                             "dnsName":  "montgomery",
+                                             "serverCount":  12
+                                         },
+                                         {
+                                             "name":  "Nashua",
+                                             "id":  8948549,
+                                             "dnsName":  "nashua",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "Nashville",
+                                             "id":  9071273,
+                                             "dnsName":  "nashville",
+                                             "serverCount":  40
+                                         },
+                                         {
+                                             "name":  "New Haven",
+                                             "id":  8775974,
+                                             "dnsName":  "new-haven",
+                                             "serverCount":  10
+                                         },
+                                         {
+                                             "name":  "New Orleans",
+                                             "id":  8863781,
+                                             "dnsName":  "new-orleans",
+                                             "serverCount":  7
+                                         },
+                                         {
+                                             "name":  "New York",
+                                             "id":  8971718,
+                                             "dnsName":  "new-york",
+                                             "serverCount":  632
+                                         },
+                                         {
+                                             "name":  "Oklahoma City",
+                                             "id":  9013061,
+                                             "dnsName":  "oklahoma-city",
+                                             "serverCount":  14
+                                         },
+                                         {
+                                             "name":  "Omaha",
+                                             "id":  8943887,
+                                             "dnsName":  "omaha",
+                                             "serverCount":  39
+                                         },
+                                         {
+                                             "name":  "Phoenix",
+                                             "id":  8741960,
+                                             "dnsName":  "phoenix",
+                                             "serverCount":  72
+                                         },
+                                         {
+                                             "name":  "Pittsburgh",
+                                             "id":  9036872,
+                                             "dnsName":  "pittsburgh",
+                                             "serverCount":  48
+                                         },
+                                         {
+                                             "name":  "Portland",
+                                             "id":  9017738,
+                                             "dnsName":  "portland",
+                                             "serverCount":  10
+                                         },
+                                         {
+                                             "name":  "Providence",
+                                             "id":  9048614,
+                                             "dnsName":  "providence",
+                                             "serverCount":  12
+                                         },
+                                         {
+                                             "name":  "Saint Louis",
+                                             "id":  8934551,
+                                             "dnsName":  "saint-louis",
+                                             "serverCount":  36
+                                         },
+                                         {
+                                             "name":  "Salt Lake City",
+                                             "id":  9097865,
+                                             "dnsName":  "salt-lake-city",
+                                             "serverCount":  29
+                                         },
+                                         {
+                                             "name":  "San Francisco",
+                                             "id":  8766359,
+                                             "dnsName":  "san-francisco",
+                                             "serverCount":  114
+                                         },
+                                         {
+                                             "name":  "Seattle",
+                                             "id":  9128402,
+                                             "dnsName":  "seattle",
+                                             "serverCount":  206
+                                         },
+                                         {
+                                             "name":  "Sioux Falls",
+                                             "id":  9061658,
+                                             "dnsName":  "sioux-falls",
+                                             "serverCount":  5
+                                         },
+                                         {
+                                             "name":  "Trenton",
+                                             "id":  8956166,
+                                             "dnsName":  "trenton",
+                                             "serverCount":  14
+                                         },
+                                         {
+                                             "name":  "Wichita",
+                                             "id":  8845130,
+                                             "dnsName":  "wichita",
+                                             "serverCount":  8
+                                         },
+                                         {
+                                             "name":  "Wilmington",
+                                             "id":  8781776,
+                                             "dnsName":  "wilmington",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Uruguay",
+                          "code":  "UY",
+                          "id":  230,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Montevideo",
+                                             "id":  9150812,
+                                             "dnsName":  "montevideo",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Uzbekistan",
+                          "code":  "UZ",
+                          "id":  231,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Tashkent",
+                                             "id":  9166826,
+                                             "dnsName":  "tashkent",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Venezuela",
+                          "code":  "VE",
+                          "id":  233,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Caracas",
+                                             "id":  9176843,
+                                             "dnsName":  "caracas",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Vietnam",
+                          "code":  "VN",
+                          "id":  234,
+                          "serverCount":  10,
+                          "cities":  [
+                                         {
+                                             "name":  "Hanoi",
+                                             "id":  9270302,
+                                             "dnsName":  "hanoi",
+                                             "serverCount":  4
+                                         },
+                                         {
+                                             "name":  "Ho Chi Minh City",
+                                             "id":  9271799,
+                                             "dnsName":  "ho-chi-minh-city",
+                                             "serverCount":  6
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Yemen",
+                          "code":  "YE",
+                          "id":  239,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Sanaa",
+                                             "id":  9367184,
+                                             "dnsName":  "sanaa",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      },
+                      {
+                          "name":  "Zambia",
+                          "code":  "ZM",
+                          "id":  240,
+                          "serverCount":  2,
+                          "cities":  [
+                                         {
+                                             "name":  "Lusaka",
+                                             "id":  9427058,
+                                             "dnsName":  "lusaka",
+                                             "serverCount":  2
+                                         }
+                                     ]
+                      }
+                  ]
+}

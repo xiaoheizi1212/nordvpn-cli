@@ -1,0 +1,17 @@
+# --- personal / runtime (do NOT commit) ---
+# 个人配置与运行时状态(不要提交)
+config.json
+.nv-state.json
+# kept local only (contains session-specific traces) / 仅保留在本地(含个人会话痕迹)
+FINDINGS.md
+
+# --- .NET build output for spike/Inspect ---
+# spike/Inspect 的编译产物
+spike/Inspect/bin/
+spike/Inspect/obj/
+
+# --- editors / OS ---
+.vs/
+*.user
+Thumbs.db
+desktop.ini

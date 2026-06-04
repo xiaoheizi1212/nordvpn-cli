@@ -1,0 +1,25 @@
+{
+  "defaultLocation": "singapore",
+  "settings": {
+    "via": "Cli",
+    "timeoutSec": 30,
+    "verifyByDefault": false
+  },
+  "schedule": {
+    "enabled": false,
+    "mode": "countdown",
+    "reconnectMode": "favorite",
+    "countdownSec": 600,
+    "timeRangeStart": "09:00",
+    "timeRangeEnd": "18:00"
+  },
+  "favorites": [ "singapore", "japan", "united-states" ],
+  "locations": {
+    "singapore": "Singapore",
+    "japan": "Japan",
+    "united-states": "United States",
+    "uk": "United Kingdom",
+    "example-by-server": { "server": "United States #5" },
+    "example-by-id": { "id": "12345" }
+  }
+}
