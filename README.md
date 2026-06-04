@@ -243,3 +243,15 @@ Copy-Item config.example.json config.json
 ## 许可
 
 [MIT](LICENSE)。与 NordVPN / Nord Security 无关联。
+
+---
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=xiaoheizi1212%2Fnordvpn-cli&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=xiaoheizi1212/nordvpn-cli&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=xiaoheizi1212/nordvpn-cli&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=xiaoheizi1212/nordvpn-cli&type=date&legend=top-left" />
+ </picture>
+</a>
